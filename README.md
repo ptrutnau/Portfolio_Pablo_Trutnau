@@ -1,2 +1,2 @@
-# Portfolio_Pablo_Trutnau
+# Portfolio Pablo Trutnau
 Data Science Portfolio
