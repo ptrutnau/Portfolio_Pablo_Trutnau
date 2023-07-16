@@ -1,9 +1,10 @@
 # Portfolio Pablo Trutnau
 Data Science Portfolio
 
-Willkommen zu meinem persönlichen Data Science/Data Analysis Portfolio.<br>
-Hier findest du eine Sammlung von Projekten zum Thema die ich für akademische, selbstlernende und Hobbyzwecke durchgeführt habe.
+Welcome to my personal Data Science/Data Analysis portfolio.<br>
+Here you will find a collection of projects on different topic that I have done for academic, self-learning and hobby purposes.
 
 Tools: <br>
 R: Tidyverse, Rmarkdown, knitr<br>
 Python: Pandas, NumPy, Seaborn, Matplotlib<br>
+SQL: MySql  
