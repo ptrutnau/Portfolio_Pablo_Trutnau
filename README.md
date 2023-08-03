@@ -8,3 +8,5 @@ Tools: <br>
 R: Tidyverse, Rmarkdown, Knitr, Lubridate, Leaflet<br>
 Python: Pandas, NumPy, Seaborn, Matplotlib<br>
 SQL: MySql  
+
+Project 1: Case Study Cyclistic
