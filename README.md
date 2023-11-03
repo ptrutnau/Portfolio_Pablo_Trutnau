@@ -12,6 +12,6 @@ On this Repository, i perform the Google Data Analytics Capstone Project which i
 Tools used: R (tidyverse, ggplot, lubridate)
 
 ### [Sales Analysis](https://github.com/ptrutnau/Sales_Analysis)
-Analysis of sales data of electronic devices from 2019 answering important business questions.
+Small analysis of sales data of electronic devices from 2019 answering important business questions.
 
 Tools used: Python (Pandas, Matplotlib)
