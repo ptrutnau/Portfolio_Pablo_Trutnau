@@ -11,6 +11,11 @@ On this Repository, i perform the Google Data Analytics Capstone Project which i
 
 Tools used: R (tidyverse, ggplot, lubridate)
 
+### [Netflix Data Dashboard](https://github.com/ptrutnau/Netflix_Dashboard)
+In this project i explore a dataset from the subsription-based streaming service Netflix and create an interactive dashboard using tableau based on that data.
+
+Tolls used: Tableau, Python (Pandas)
+
 ### [Sales Analysis](https://github.com/ptrutnau/Sales_Analysis)
 Small analysis of sales data of electronic devices from 2019 answering important business questions.
 
